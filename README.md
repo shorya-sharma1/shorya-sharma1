@@ -16,16 +16,16 @@ Here are some ideas to get you started:
 
 ### 👋 Hi there, I'm Shorya Sharma!
 **About Me:**
--🎓 Holding a Master's in Engineering Management (Product Management) from Duke University, GPA: 3.7.
--🖥️ Bachelor in Computer Science and Engineering from BIT MESRA, CGPA: 3.5.
--🎯 Aspiring Product Manager with a keen interest in Data Science and innovation.
--🐍 Proficient in Python, SQL, Agile, Machine Learning, and UI/UX Design.
--📊 Skilled in deriving strategic insights using advanced data analytics.
--🌟 Proven ability to enhance user experiences and operational efficiencies through technological solutions.
--🤝 Effective communicator, aligning technical solutions with business objectives.
--🌐 Goal-oriented, aiming to merge data insights with product management to create impactful products.
---📫 LinkedIn: [www.linkedin.com/in/shorya-sharma/]((https://www.linkedin.com/in/shorya-sharma-7a03a8135/))
---🔗 Email: shoryasharmaapps@gmail.com
+- 🎓 Holding a Master's in Engineering Management (Product Management) from Duke University, GPA: 3.7.
+- 🖥️ Bachelor in Computer Science and Engineering from BIT MESRA, CGPA: 3.5.
+- 🎯 Aspiring Product Manager with a keen interest in Data Science and innovation.
+- 🐍 Proficient in Python, SQL, Agile, Machine Learning, and UI/UX Design.
+- 📊 Skilled in deriving strategic insights using advanced data analytics.
+- 🌟 Proven ability to enhance user experiences and operational efficiencies through technological solutions.
+- 🤝 Effective communicator, aligning technical solutions with business objectives.
+- 🌐 Goal-oriented, aiming to merge data insights with product management to create impactful products.
+-- 📫 LinkedIn: [www.linkedin.com/in/shorya-sharma/]((https://www.linkedin.com/in/shorya-sharma-7a03a8135/))
+-- 🔗 Email: shoryasharmaapps@gmail.com
 
 ---
 

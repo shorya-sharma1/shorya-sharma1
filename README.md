@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 🌟 Proven ability to enhance user experiences and operational efficiencies through technological solutions.
 - 🤝 Effective communicator, aligning technical solutions with business objectives.
 - 🌐 Goal-oriented, aiming to merge data insights with product management to create impactful products.
-- 📫 LinkedIn: [www.linkedin.com/in/shorya-sharma/]((https://www.linkedin.com/in/shorya-sharma-7a03a8135/))
+- 📫 LinkedIn: www.linkedin.com/in/shorya-sharma/((https://www.linkedin.com/in/shorya-sharma-7a03a8135/))
 - 🔗 Email: shoryasharmaapps@gmail.com
 
 ---

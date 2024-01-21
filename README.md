@@ -31,10 +31,10 @@ Here are some ideas to get you started:
 - 📊 GPA of 3.7 in my Master's program, reflecting my dedication and academic excellence.
 
 👨‍💻 **Work Experience:**
--📊 *SRS Consulting Services*:
+📊 *SRS Consulting Services*:
 - Led payroll system algorithm development using Deep Learning, and enhanced user experience in data tools through UI/UX design.
 - Drove data optimization and stakeholder communication, integrating Machine Learning for strategic insights.
-- 🚀 **Former Data Scientist at INCEDO Inc. **:
+🚀 **Former Data Scientist at INCEDO Inc. **:
 - Developed RESTful Flask APIs with Machine Learning integration for predictive analytics and optimized financial models.
 - Collaborated on UI/UX improvements in data platforms, ensuring user-friendly interfaces and impactful data visualization.
 🔧 **Technical Skills:**
